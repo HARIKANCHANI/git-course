@@ -10,3 +10,10 @@ if __name__ == '__main__':
     num = 5
     print("The factorial of", num, "is", factorial(num))
     
+#Import math Library
+#import math
+
+#Return factorial of a number
+#print(math.factorial(9))
+#print(math.factorial(6))
+#print(math.factorial(5))
