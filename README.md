@@ -25,3 +25,13 @@ Then id_rsa.pub is created in .ssh folder which we created open the .pub file to
 
 git remote add origin git@github.com:HARIKANCHANI/git-course.git
 git push -u origin main
+
+
+GIT DELETE
+File delete :
+git rm –cached “fle_name”
+rm 'Even_odd.py'
+	Branch delete:
+git branch -d feature1
+Deleted branch feature1 (was 1f1584e).
+
